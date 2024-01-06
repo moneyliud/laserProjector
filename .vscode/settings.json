@@ -1,0 +1,5 @@
+{
+    "stm32-for-vscode.makePath": "C:\\QT\\QT5.9.9\\TOOLS\\MINGW530_32\\BIN\\MAKE.EXE",
+    "cortex-debug.armToolchainPath": "E:\\PROGRAM\\GCC-ARM-NONE-EABI\\BIN",
+    "cortex-debug.openocdPath": "E:\\PROGRAM\\OPENOCD\\BIN\\OPENOCD.EXE"
+}
